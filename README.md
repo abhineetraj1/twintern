@@ -1,12 +1,13 @@
 # Flutter web projects
 
-These are web based flutter projects
+These are web & app based flutter projects
 
 | Project | code |
 |--|:--:|
 | Flipcart UI Clone | [code](flipcart/main.dart) |
 | Portfolio website | [code](portfolio/main.dart) |
 | Responsive company page | [code](screenrecorder/main.dart) |
+| Motovolt: electric bike seller | [code](motovolt/main.dart) |
 
 ## Installation
 *   Download and install the Flutter SDK.
